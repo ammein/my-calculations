@@ -1,0 +1,8 @@
+name: my-calculations
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - sage==10.6
+prefix: /opt/anaconda3/envs/my-calculations
